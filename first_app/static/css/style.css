@@ -1,3 +1,8 @@
-body{
-    background-color: black;
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 16px;
+    row-gap: 16px;
 }
